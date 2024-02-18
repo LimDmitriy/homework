@@ -1,6 +1,8 @@
-def math_func():
-    print(1+2)
+def plus(a, b):
+    result = a + b
+    return result
 
 
-def math_function():
-    print(2-1)
+def minuse(a, b):
+    result = a - b
+    return result
